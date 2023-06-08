@@ -1,5 +1,6 @@
 # Inland-Empire-Solar-Sales-Travel-CIS-7-Project- 
 Authors: Mark Anderson and Nicholas Waysz 
+Date Published: 6/7/23 
 
 In this project, we are determining the variations of the trip to the noted cities that a solar marketing specialist must take to market solar packages to homeowners. He starts from home in Riverside and needs to travel to Moreno Valley, Perris and Hemet. After calculating and determining the varying routes, we are then also determining the shortest path, and the most low-cost trips for the marketing specialist. 
 
